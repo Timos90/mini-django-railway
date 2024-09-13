@@ -10,7 +10,7 @@ DEBUG = env.bool("DEBUG")
 
 ALLOWED_HOSTS = ["mini-django-railway-production-31e5.up.railway.app"]
 CSRF_TRUSTED_ORIGINS = [
-    "mini-django-railway-production-31e5.up.railway.app"
+    "https://mini-django-railway-production-31e5.up.railway.app"
 ]
 #   # modify later
 
